@@ -38,7 +38,7 @@ namespace MyDictionary
         {
             for (int i = 0; i < keys.Length; i++)
             {
-                Console.WriteLine("The key is :" + keys[i] + "The valuer is :" + values[i]);
+                Console.WriteLine("The key is :" + keys[i] + "The value is :" + values[i]);
             }
         }
 
